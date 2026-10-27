@@ -58,3 +58,4 @@ The verifier compiles all 23 programs, confirms every description/theory header,
 - Winner-Take-All and LVQ may print identical results for the supplied sample because each input is already closest to a correctly labeled prototype.
 
 # aisc-2026
+# aisc
